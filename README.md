@@ -22,11 +22,7 @@
 
 *(more on the way — stay tuned 🚀)*  
 
----
-
-## 🌍 Let’s Connect  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- 📝 [Portfolio/Blog](https://your-website.com) *(optional if you plan to make one)*  
+--- 
 
 📩 *Let’s connect if you’re building in **cybersecurity, startups, or emerging tech***  
 
